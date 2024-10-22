@@ -13,6 +13,7 @@ const Cartslice = createSlice({
 export const { addItem } = Cartslice.actions;
 
 export const cartReducers = Cartslice.reducer;
+// /
 
 
 
